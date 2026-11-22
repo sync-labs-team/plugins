@@ -22,11 +22,7 @@ codex plugin marketplace add sync-labs-team/plugins
 codex plugin add sync-relay@sync-labs
 ```
 
-## Install from the menu
-
-Claude Code: type `/plugin`, open **Marketplaces**, choose **Add marketplace** and enter `sync-labs-team/plugins`. Then open **Discover**, pick a plugin and choose an install scope.
-
-Codex: in the app, open the plugin directory, choose the `Sync Labs` marketplace and install from there.
+Or add it from the `/plugin` menu in Claude Code.
 
 ## Plugins
 
