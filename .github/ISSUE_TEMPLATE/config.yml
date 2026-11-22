@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/Sync-Labs-team/plugins/security/advisories/new
+    about: Private report. For a vulnerability inside a plugin, use that plugin's repository (see SECURITY.md). Please do not open a public issue for it.

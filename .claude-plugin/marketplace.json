@@ -1,0 +1,18 @@
+{
+  "name": "sync-labs",
+  "description": "Plugins for Claude Code and Codex from Sync Labs.",
+  "owner": { "name": "Sync Labs", "url": "https://github.com/Sync-Labs-team" },
+  "plugins": [
+    {
+      "name": "sync-relay",
+      "description": "Keeps the main session delegating, hands a session over to a fresh one, warns when context grows. On Claude Code: /relay command, auto button, status line.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Sync-Labs-team/sync_relay.git",
+        "path": "plugins/sync_relay"
+      },
+      "homepage": "https://github.com/Sync-Labs-team/sync_relay",
+      "category": "development"
+    }
+  ]
+}
