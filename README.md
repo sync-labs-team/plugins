@@ -29,6 +29,7 @@ Or add it from the `/plugin` menu in Claude Code.
 | Plugin | What it does | Repository |
 |---|---|---|
 | `sync-relay` | Keeps the main session delegating and hands a long session over to a fresh one. Claude Code and Codex. | [sync_relay](https://github.com/Sync-Labs-team/sync_relay) |
+| `sync-gate` | Queues heavy builds, tests and installs so parallel AI agents do not fight over the machine. Claude Code and Codex. | [sync_gate](https://github.com/Sync-Labs-team/sync_gate) |
 
 More plugins are added here as they are released.
 

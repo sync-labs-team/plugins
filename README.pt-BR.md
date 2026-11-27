@@ -29,6 +29,7 @@ Ou adicione pelo menu `/plugin` do Claude Code.
 | Plugin | O que faz | Repositório |
 |---|---|---|
 | `sync-relay` | Mantém a sessão principal delegando e passa uma sessão longa para uma nova. Claude Code e Codex. | [sync_relay](https://github.com/Sync-Labs-team/sync_relay) |
+| `sync-gate` | Enfileira builds, testes e instalações pesadas para que agentes de IA em paralelo não disputem a máquina. Claude Code e Codex. | [sync_gate](https://github.com/Sync-Labs-team/sync_gate) |
 
 Novos plugins entram aqui conforme saem.
 

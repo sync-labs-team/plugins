@@ -13,6 +13,17 @@
       },
       "homepage": "https://github.com/Sync-Labs-team/sync_relay",
       "category": "development"
+    },
+    {
+      "name": "sync-gate",
+      "description": "sync_gate: queue heavy builds, tests and installs so parallel AI agents do not fight over the machine.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Sync-Labs-team/sync_gate.git",
+        "path": "plugin"
+      },
+      "homepage": "https://github.com/Sync-Labs-team/sync_gate",
+      "category": "development"
     }
   ]
 }
